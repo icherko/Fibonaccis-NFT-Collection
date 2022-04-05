@@ -1,4 +1,4 @@
-# Fibonaccis-Smart-Contract
+# Fibonaccis NFT Collection
 
 Developed this smart contract for the Fibonaccis NFT collection. NFT designed by Kalix and Ian. Fractals images designed by Kalix. Fiboancci numbers and distribution of fractals and fibonacci numbers by Ian.
 
